@@ -1,4 +1,29 @@
-site_name: My Docs
+site_name: Nathemis
+site_description: A blogging site sharing discoveries and reflexions around legal, data and AI.
 site_url: https://sitename.example
 theme:
   name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: deep orange
+      accent: deep purple
+    
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+
+plugins: 
+  - search
+  - blog:
+      blog_dir: .
+      archives_date_format: yyyy 
+      archives_url_date_format: yyyy
