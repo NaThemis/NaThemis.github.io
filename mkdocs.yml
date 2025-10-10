@@ -1,7 +1,12 @@
 site_name: Nathemis
 site_description: A blogging site sharing discoveries and reflexions around legal, data and AI.
-site_url: https://sitename.example
+site_url: https://nathemis.github.io/
 theme:
+  logo: images/logo.png
+  font:
+    text: Jost
+    code: JetBrains Mono
+  custom_dir: overrides
   name: material
   palette:
     # Dark Mode
@@ -9,16 +14,16 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: deep orange
-      accent: deep purple
+      primary: black
+      accent: white
     
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
-      accent: deep orange
+      primary: white
+      accent: black
 
 
 plugins: 
@@ -27,3 +32,51 @@ plugins:
       blog_dir: .
       archives_date_format: yyyy 
       archives_url_date_format: yyyy
+      categories_allowed:
+        - AI
+        - Data Platforms
+      post_url_format: '{slug}'
+  - tags:
+      tags_file: tags.md
+  - rss:
+      match_path: "posts/.*"
+      pretty_print: true
+      date_from_meta:
+          as_creation: date.created
+          as_update: date.updated
+  - git-committers:
+      enabled: true
+      repository: NaThemis/NaThemis.github.io
+      branch: main
+      token: !ENV GH_TOKEN
+  - git-revision-date-localized:
+      enabled: true
+      type: date
+      fallback_to_build_date: true
+      enable_creation_date: true
+
+
+extra:
+  social:
+    # - icon: simple/youtube
+    #   link: https://www.youtube.com/@shannax
+    # - icon: simple/github
+    #   link: https://github.com/SH2282000
+    # - icon: simple/x
+    #   link: https://x.com/TheRealShannax
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nathalie-fouet/
+  homepage: https://sh2282000.github.io
+
+hooks:
+  - hooks/socialmedia.py
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheet/custom.css

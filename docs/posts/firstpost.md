@@ -3,11 +3,26 @@ date:
     created: 2025-09-01
     updated: 2025-09-01
 draft: false
+authors: 
+    - nathalie
+    - sebastien
 categories: [AI, Data Platforms]
 readtime: 15
+slug: ai-agents-data
+tags: 
+    - AI
+    - Data Platforms
+    - Data Mesh
+    - Data Fabric
+    - Lakehouse
+    - Data Warehouse
+    - Data Lake
 ---
 
 # AI Agents & Data Platforms
+
+
+:smile: :wave: Hello everyone!
 
 How will AI Agents revolutionize Data Platforms? Are AI Agents the end of centralized data platforms and the Lakehouse? 
 
