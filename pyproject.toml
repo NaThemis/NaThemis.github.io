@@ -23,4 +23,5 @@ dependencies = [
     "pymdown-extensions~=10.2",
     "regex>=2022.4",
     "requests~=2.26",
+    "beautifulsoup4>=4.0",
 ]
