@@ -1,4 +1,4 @@
-# Nathemis Website
+# NathalieDecode Website
 
 A blogging site sharing discoveries and reflections around legal, data and AI topics, built with MkDocs Material.
 

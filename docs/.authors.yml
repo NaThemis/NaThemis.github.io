@@ -2,15 +2,15 @@ authors:
   nathalie:
     name: Nathalie
     description: Cyber and Data Manager | Legal Engineer | AI & Data Enthusiast | Blogger
-    avatar: https://media.licdn.com/dms/image/v2/D4E03AQGS6jOaeqXkhQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1684851491431?e=1762992000&v=beta&t=vqOdeRjIRZioZP1jmWXGkwxDJ7PN8wrFnkCPEF0vY1A
+    avatar: /assets/images/nathaliedecode_squared1_cables.png
     url: https://www.linkedin.com/in/nathalie-fouet/
   sebastien:
     name: Sebastien
-    description: Tech Enthusiast | Developer | Blogger
-    avatar: https://example.com/path/to/sebastien-avatar.jpg
+    description: Tech Enthusiast | Digital Strategist | Blogger
+    avatar: /assets/images/unknownuser_rounded1.png
     url: https://www.linkedin.com/in/sebastien-example/
   shannah:
     name: Shannah
     description: Data Scientist | AI Researcher | Blogger
-    avatar: https://example.com/path/to/shannah-avatar.jpg
+    avatar: /assets/images/unknownuser_rounded1.png
     url: https://www.linkedin.com/in/shannah-example/

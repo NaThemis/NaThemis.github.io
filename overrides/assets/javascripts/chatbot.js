@@ -146,7 +146,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     async function callGemini(query, context) {
         const prompt = `
-You are a helpful assistant for the "Nathemis" blog. Use the provided context to answer the user's question.
+You are a helpful assistant for the "NathalieDecode" blog. Use the provided context to answer the user's question.
 If the context doesn't contain the answer, say "I couldn't find that in the blog posts."
 Context:
 ${context}

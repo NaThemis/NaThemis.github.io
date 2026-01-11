@@ -1,8 +1,8 @@
-site_name: Nathemis
+site_name: NathalieDecode
 site_description: A blogging site sharing discoveries and reflexions around legal, data and AI.
 site_url: https://nathemis.github.io/
 theme:
-  logo: images/logo.png
+  logo: assets/images/nathaliedecode.png
   font:
     text: Jost
     code: JetBrains Mono
