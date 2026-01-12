@@ -60,13 +60,13 @@ extra:
   social:
     # - icon: simple/youtube
     #   link: https://www.youtube.com/@shannax
-    # - icon: simple/github
-    #   link: https://github.com/SH2282000
+    - icon: simple/github
+      link: https://github.com/nathemis
     # - icon: simple/x
     #   link: https://x.com/TheRealShannax
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/nathalie-fouet/
-  homepage: https://sh2282000.github.io
+  homepage: https://nathemis.github.io
 
 hooks:
   - hooks/socialmedia.py
