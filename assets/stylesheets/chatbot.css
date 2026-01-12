@@ -1,0 +1,202 @@
+/* Chatbot Container */
+:root {
+  --chatbot-width: 380px;
+  --chatbot-height: 500px;
+  --chatbot-primary-color: var(--md-primary-fg-color, #000);
+  --chatbot-bg-color: var(--md-default-bg-color, #fff);
+  --chatbot-text-color: var(--md-default-fg-color, #000);
+}
+
+#rag-chatbot-trigger {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: var(--chatbot-primary-color);
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  transition: transform 0.2s;
+}
+
+#rag-chatbot-trigger:hover {
+  transform: scale(1.05);
+}
+
+#rag-chatbot-trigger svg {
+  width: 32px;
+  height: 32px;
+  fill: currentColor;
+}
+
+#rag-chatbot-window {
+  position: fixed;
+  bottom: 90px;
+  right: 20px;
+  width: var(--chatbot-width);
+  height: var(--chatbot-height);
+  background: var(--chatbot-bg-color);
+  color: var(--chatbot-text-color);
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+  display: flex;
+  flex-direction: column;
+  z-index: 1000;
+  overflow: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(20px);
+  transition: opacity 0.3s, transform 0.3s;
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+#rag-chatbot-window.open {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
+.chatbot-header {
+  padding: 16px;
+  background-color: var(--chatbot-primary-color);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+}
+
+.chatbot-close {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 4px;
+}
+
+.chatbot-messages {
+  flex: 1;
+  padding: 16px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.message {
+  max-width: 80%;
+  padding: 10px 14px;
+  border-radius: 12px;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.message.bot {
+  background-color: var(--md-default-bg-color--lighter);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  align-self: flex-start;
+  border-bottom-left-radius: 2px;
+}
+
+.message.user {
+  background-color: var(--chatbot-primary-color);
+  color: white;
+  align-self: flex-end;
+  border-bottom-right-radius: 2px;
+}
+
+.chatbot-input-area {
+  padding: 12px;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  display: flex;
+  gap: 8px;
+}
+
+#chatbot-input {
+  flex: 1;
+  padding: 8px 12px;
+  border-radius: 20px;
+  border: 1px solid var(--md-default-fg-color--light);
+  background: var(--md-default-bg-color);
+  color: var(--chatbot-text-color);
+}
+
+#chatbot-send {
+  background: var(--chatbot-primary-color);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* API Key Modal Overlay inside the chat window */
+.api-key-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--chatbot-bg-color);
+  z-index: 10;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.api-key-overlay.hidden {
+  display: none;
+}
+
+.api-key-input {
+  width: 90%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.api-key-btn {
+  padding: 8px 16px;
+  background: var(--chatbot-primary-color);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.loading-dots:after {
+  content: '.';
+  animation: dots 1.5s steps(5, end) infinite;
+}
+
+@keyframes dots {
+  0%, 20% { content: '.'; }
+  40% { content: '..'; }
+  60% { content: '...'; }
+  80%, 100% { content: ''; }
+}
+
+@media (max-width: 480px) {
+    #rag-chatbot-window {
+        width: 100%;
+        height: 100%;
+        bottom: 0;
+        right: 0;
+        border-radius: 0;
+    }
+}

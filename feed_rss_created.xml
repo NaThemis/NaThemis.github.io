@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>NathalieDecode</title>
+    <description>A blogging site sharing discoveries and reflexions around legal, data and AI.</description>
+    <link>https://nathemis.github.io/</link>
+    <atom:link href="https://nathemis.github.io/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    
+    
+    
+    <language>en</language>
+
+    
+    <pubDate>Mon, 12 Jan 2026 04:23:54 -0000</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2026 04:23:54 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.16.0</generator>
+
+    
+    
+
+    
+    
+    <item>
+      <title>AI Agents &amp;amp; Data Platforms</title>
+      
+      
+        
+      <author>nathalie</author>
+        
+      <author>sebastien</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;AI Agents &amp;amp; Data Platforms&lt;/h1&gt;
+&lt;p&gt;:smile: :wave: Hello everyone!&lt;/p&gt;
+&lt;p&gt;How will AI Agents revolutionize Data Platforms? Are AI Agents the end of centralized data platforms and the Lakehouse? &lt;/p&gt;</description>
+      <link>https://nathemis.github.io/ai-agents-data/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <source url="https://nathemis.github.io/feed_rss_created.xml">NathalieDecode</source>
+      
+      <guid isPermaLink="true">https://nathemis.github.io/ai-agents-data/</guid>
+      
+    </item>
+    
+    <item>
+      <title>AI</title>
+      
+      
+        
+      <author>nathalie</author>
+        
+      <author>sebastien</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;AI&lt;/h1&gt;
+&lt;p&gt;:smile: :wave: Hello everyone!&lt;/p&gt;
+&lt;p&gt;How will AI Agents revolutionize Data Platforms? Are AI Agents the end of centralized data platforms and the Lakehouse? &lt;/p&gt;</description>
+      <link>https://nathemis.github.io/ai-agents-data-duplicate/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <source url="https://nathemis.github.io/feed_rss_created.xml">NathalieDecode</source>
+      
+      <guid isPermaLink="true">https://nathemis.github.io/ai-agents-data-duplicate/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

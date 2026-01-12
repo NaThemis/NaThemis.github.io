@@ -1,0 +1,60 @@
+/* Import the Google Serif font */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* Apply it only to paragraphs */
+p,
+ul,
+ol {
+    font-family: 'Lora', serif;
+    font-size: 0.8rem;
+    line-height: 1.75;
+}
+
+.md-copyright {
+    display: none !important;
+}
+
+/* Default link color */
+.md-content a {
+    color: #7e7e7e;
+    /* blue */
+    text-decoration: none;
+}
+
+/* On hover */
+.md-content a:hover {
+    color: #1b98ff;
+    /* pinkish */
+    text-decoration: underline;
+}
+
+/* Visited links */
+.md-content a:visited {
+    color: #6b8596;
+    /* purple */
+}
+
+.md-nav__link:hover {
+    color: #ff4081;
+}
+
+.md-draft {
+    background-color: #aaaaaa;
+}
+
+.md-header__topic:first-child {
+    font-size: 1.5em;
+    font-weight: 200;
+}
+
+/* Center Author Avatar */
+.md-profile .md-author {
+    display: flex;
+    justify-content: center;
+}
+
+/* Ensure avatar is circular */
+.md-profile .md-author img {
+    border-radius: 50% !important;
+    object-fit: cover;
+}

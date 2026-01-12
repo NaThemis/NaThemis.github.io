@@ -1,0 +1,46 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NathalieDecode",
+    "home_page_url": "https://nathemis.github.io/",
+    "feed_url": "https://nathemis.github.io/feed_json_created.json",
+    "description": "A blogging site sharing discoveries and reflexions around legal, data and AI.",
+    "icon": null,
+    "authors": [],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://nathemis.github.io/ai-agents-data/",
+            "url": "https://nathemis.github.io/ai-agents-data/",
+            "title": "AI Agents &amp; Data Platforms",
+            "content_html": "<h1>AI Agents &amp; Data Platforms</h1>\n<p>:smile: :wave: Hello everyone!</p>\n<p>How will AI Agents revolutionize Data Platforms? Are AI Agents the end of centralized data platforms and the Lakehouse? </p>",
+            "image": null,
+            "date_published": "2025-09-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                },
+                {
+                    "name": "sebastien"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/ai-agents-data-duplicate/",
+            "url": "https://nathemis.github.io/ai-agents-data-duplicate/",
+            "title": "AI",
+            "content_html": "<h1>AI</h1>\n<p>:smile: :wave: Hello everyone!</p>\n<p>How will AI Agents revolutionize Data Platforms? Are AI Agents the end of centralized data platforms and the Lakehouse? </p>",
+            "image": null,
+            "date_published": "2025-09-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                },
+                {
+                    "name": "sebastien"
+                }
+            ],
+            "tags": null
+        }
+    ]
+}
