@@ -26,8 +26,11 @@ tags:
 
 How will AI Agents revolutionize Data Platforms? Are AI Agents the end of centralized data platforms and the Lakehouse? 
 
+![AI Agents Data Platform](../images/image_AI%20Agents%20Data%20Platform.png)
+
 <!-- more -->
 
+**Read the Article also on Substrack**: https://nathaliefouet.substack.com/p/ai-agents-and-data-platforms
 
 For years, companies have been aware of the strategic value of data. Clive Humby already expressed this when he said that " _Data is the new oil_ ", thus highlighting the need not only to collect data, but also to transform, refine and analyze it to derive actionable insights.
 

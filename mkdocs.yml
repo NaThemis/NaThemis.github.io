@@ -35,6 +35,7 @@ plugins:
       categories_allowed:
         - AI
         - Data Platforms
+        - Cyber
       post_url_format: '{slug}'
   - tags:
       tags_file: tags.md
