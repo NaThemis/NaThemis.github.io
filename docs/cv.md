@@ -1,9 +1,7 @@
 ---
 date:
-  created: 2022-01-15
-  updated: 2022-01-15
-git_revision_date_localized: 2022-01-15
-git_creation_date_localized: 2022-01-15
+    created: 2020-06-01
+    updated: 2025-06-01
 ---
 
 # Curriculum Vitae

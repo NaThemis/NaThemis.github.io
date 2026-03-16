@@ -49,16 +49,17 @@ Whether you’re a tech pro building secure infrastructure or just taking your o
 ![Slide 6](../images/202601_Trends_Cyber_Phishing-Slide6.jpg)
 
 ![Slide 7](../images/202601_Trends_Cyber_Phishing-Slide7.jpg)
-
+-
 ![Slide 8](../images/202601_Trends_Cyber_Phishing-Slide8.jpg)
 
 ![Slide 9](../images/202601_Trends_Cyber_Phishing-Slide9.jpg)
 
-![Slide 10](../images/202601_Trends_Cyber_Phishing-Slide10.jpg)
+![Slide 10](../images/202601_Trends_Cyber_Phishing-Slide10.png)
 
-![Slide 11](../images/202601_Trends_Cyber_Phishing-Slide11.jpg)
 
-![Slide 12](../images/202601_Trends_Cyber_Phishing-Slide12.jpg)
+![Slide 11](../images/202601_Trends_Cyber_Phishing-Slide11.png)
+
+![Slide 12](../images/202601_Trends_Cyber_Phishing-Slide12.png)
 
 ![Slide 13](../images/202601_Trends_Cyber_Phishing-Slide13.jpg)
 
