@@ -1,1 +1,1 @@
-Here are all the tags used in this blog:
+Here are all the tags used in these articles:

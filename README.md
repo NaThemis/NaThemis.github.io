@@ -1,6 +1,6 @@
 # NathalieDecode Website
 
-A blogging site sharing discoveries and reflections around legal, data and AI topics, built with MkDocs Material.
+A site sharing articles, discoveries and reflections around legal, data and AI topics, built with MkDocs Material.
 
 ## 🚀 Quick Start
 
@@ -78,7 +78,7 @@ The built site will be in the `site/` directory.
 
 ## 📝 Content Management
 
-### Adding New Blog Posts
+### Adding New Articles
 
 1. Create a new Markdown file in [`docs/posts/`](docs/posts/):
    ```markdown
@@ -147,7 +147,7 @@ uv run mkdocs gh-deploy --force
 │   ├── .authors.yml        # Author definitions
 │   ├── index.md            # Homepage
 │   ├── tags.md             # Tags page
-│   ├── posts/              # Blog posts
+│   ├── posts/              # Articles
 │   ├── images/             # Static images
 │   └── stylesheet/         # Custom CSS
 ├── hooks/                   # MkDocs hooks
@@ -168,7 +168,7 @@ uv run mkdocs gh-deploy --force
 The main configuration is in [`mkdocs.yml`](mkdocs.yml), including:
 
 - **Theme**: Material Design with dark/light mode toggle
-- **Plugins**: Blog, RSS, Git integration, search, tags
+- **Plugins**: Blog (Articles), RSS, Git integration, search, tags
 - **Social Links**: LinkedIn integration
 - **Custom Hooks**: Social media sharing buttons
 
@@ -197,7 +197,7 @@ uv add --dev package-name
    ```
 
 2. **Make your changes**
-   - Add/edit blog posts in `docs/posts/`
+   - Add/edit articles in `docs/posts/`
    - Modify configuration if needed
    - Test locally with `uv run mkdocs serve`
 
@@ -216,7 +216,7 @@ uv add --dev package-name
 
 ### Direct Updates to Main
 
-For quick updates (like new blog posts):
+For quick updates (like new articles):
 
 1. **Ensure you're on main branch**
    ```bash
@@ -232,7 +232,7 @@ For quick updates (like new blog posts):
 3. **Commit and push**
    ```bash
    git add .
-   git commit -m "Add: new blog post about [topic]"
+   git commit -m "Add: new article about [topic]"
    git push origin main
    ```
 
@@ -242,7 +242,7 @@ For quick updates (like new blog posts):
 
 - **Responsive Design**: Material Design theme with mobile support
 - **Dark/Light Mode**: Toggle between themes
-- **Blog Functionality**: Automatic post organization and RSS feed
+- **Articles Functionality**: Automatic post organization and RSS feed
 - **Social Sharing**: Integrated X (Twitter) and Facebook sharing buttons
 - **Comments**: Giscus-powered comments system
 - **Search**: Full-text search across all content
