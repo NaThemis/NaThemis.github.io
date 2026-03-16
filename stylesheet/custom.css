@@ -1,0 +1,132 @@
+/* Import the Google Serif font */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* Apply it only to paragraphs */
+p,
+ul,
+ol {
+    font-family: 'Lora', serif;
+    font-size: 0.8rem;
+    line-height: 1.75;
+}
+
+.md-copyright {
+    display: none !important;
+}
+
+/* Default link color */
+.md-content a {
+    color: #7e7e7e;
+    /* blue */
+    text-decoration: none;
+}
+
+/* On hover */
+.md-content a:hover {
+    color: #1b98ff;
+    /* pinkish */
+    text-decoration: underline;
+}
+
+/* Visited links */
+.md-content a:visited {
+    color: #6b8596;
+    /* purple */
+}
+
+.md-nav__link:hover {
+    color: #ff4081;
+}
+
+.md-draft {
+    background-color: #aaaaaa;
+}
+
+.md-header__topic:first-child {
+    font-size: 1.5em;
+    font-weight: 200;
+}
+
+/* Center Author Avatar */
+.md-profile .md-author {
+    display: flex;
+    justify-content: center;
+}
+
+/* Ensure avatar is circular */
+.md-profile .md-author img {
+    border-radius: 50% !important;
+    object-fit: cover;
+}
+
+/* Increase overall header height to fit the logo */
+.md-header {
+    height: 100px !important;
+}
+
+/* Adjust header logo wrapper size */
+.md-header__button.md-logo {
+    height: 80px !important;
+    width: 80px !important;
+    padding: 0 !important;
+    margin: 4px !important;
+}
+
+/* Adjust header logo image size */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+    height: 80px !important;
+    width: 80px !important;
+    object-fit: contain !important;
+}
+
+/* GDPR Consent Banner */
+#gdpr-banner {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: var(--md-default-bg-color);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    border-radius: 8px;
+    padding: 20px;
+    z-index: 9999;
+}
+.gdpr-content p {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.gdpr-buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+}
+
+/* Admin Dashboard Override */
+#admin-login-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.admin-card {
+    background: var(--md-default-bg-color);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    max-width: 400px;
+    width: 100%;
+}
+.admin-card input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--md-default-fg-color--light);
+    border-radius: 4px;
+    background: transparent;
+    color: var(--md-default-fg-color);
+}
+.admin-card input:focus {
+    outline: none;
+    border-color: var(--md-primary-fg-color);
+}

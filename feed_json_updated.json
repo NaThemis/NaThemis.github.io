@@ -1,0 +1,225 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NathalieDecode",
+    "home_page_url": "https://nathemis.github.io/",
+    "feed_url": "https://nathemis.github.io/feed_json_updated.json",
+    "description": "A site sharing articles, discoveries and reflexions around legal, data and AI.",
+    "icon": null,
+    "authors": [],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://nathemis.github.io/cyber-trends-2025-2026/",
+            "url": "https://nathemis.github.io/cyber-trends-2025-2026/",
+            "title": "Cyber Trends 2025-2026",
+            "content_html": "<h1>Cyber Trends 2025-2026</h1>\n<p>:shield:</p>\n<p>Cyber threats don\u2019t wait \u2014 and frankly, neither should you.</p>\n<p>I've just put together a deep dive into the cybersecurity trends defining 2025-2026. If you're looking for another generic, fear-mongering report, this isn't it. </p>\n<p>We\u2019re talking actionable intel: real stats, a France-specific breakdown straight from ANSSI\u2019s latest data, and a no-BS look at why AI-turbocharged phishing and deepfakes are still the sharpest weapons pointed at your organization.</p>\n<p>Here's the deal: In this breakdown, I'll walk you through concrete, actionable steps to strengthen your defenses \u2014 starting tomorrow. </p>\n<p>Whether you\u2019re a tech pro building secure infrastructure or just taking your own digital hygiene seriously, I've got you covered.</p>\n<p><img alt=\"Slide 1\" src=\"../images/202601_Trends_Cyber_Phishing-Slide1.jpg\"></p>\n<p>\ud83d\udc49 Dig into the full breakdown below. Let's make the bad guys work for it.</p>",
+            "image": null,
+            "date_modified": "2026-01-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/ai-agents-data/",
+            "url": "https://nathemis.github.io/ai-agents-data/",
+            "title": "AI Agents &amp; Data Platforms",
+            "content_html": "<h1>AI Agents &amp; Data Platforms</h1>\n<p>:smile: :wave: Hello everyone!</p>\n<p>How will AI Agents revolutionize Data Platforms? Are AI Agents the end of centralized data platforms and the Lakehouse? </p>\n<p><img alt=\"AI Agents Data Platform\" src=\"../images/image_AI%20Agents%20Data%20Platform.png\"></p>",
+            "image": null,
+            "date_modified": "2025-09-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                },
+                {
+                    "name": "sebastien"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/analyse-annonces-data-fabric-databricks/",
+            "url": "https://nathemis.github.io/analyse-annonces-data-fabric-databricks/",
+            "title": "Analyse des Annonces Data: Microsoft Fabric &amp; Databricks",
+            "content_html": "<h1>Analyse des Annonces Data: Microsoft Fabric &amp; Databricks</h1>\n<p>:rocket:</p>\n<p>The data landscape is shifting fast, and if you blink, you'll miss the revolution.</p>\n<p>I recently broke down the massive announcements from Microsoft Build (hello, Microsoft Fabric!) and the Databricks Data + AI Summit. No marketing fluff\u2014just the hardcore technical implications and what this means for your data architecture.</p>\n<p>Ready to level up your platform? Let's decode the hype together.</p>\n<p>\ud83d\udc49 Catch the insights from the Meetup: <a href=\"https://www.eventbrite.fr/e/billets-build-microsoft-et-data-ai-summit-les-nouveautes-data-a-ne-pas-rater-656554541307\">Eventbrite Link</a> | <a href=\"https://www.linkedin.com/in/nathalie-fouet/recent-activity/all/\">LinkedIn Post</a></p>\n<p><img alt=\"Screenshot\" src=\"../images/analyse-annonces-data-fabric-databricks.png\"></p>",
+            "image": null,
+            "date_modified": "2023-06-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/dashboard-responsible-ai-microsoft/",
+            "url": "https://nathemis.github.io/dashboard-responsible-ai-microsoft/",
+            "title": "Le Dashboard Responsible AI de Microsoft",
+            "content_html": "<h1>Le Dashboard Responsible AI de Microsoft</h1>\n<p>:mag:</p>\n<p>Talking about Responsible AI is easy; actually implementing it is where the real work begins.</p>\n<p>I took a deep dive into Microsoft's Responsible AI Dashboard to see what's under the hood. I cut through the noise to show you exactly how to use these tools to build models you can trust and explain. </p>\n<p>Building ethical AI doesn't have to be a drag\u2014let's make it a competitive advantage.</p>\n<p>\ud83d\udc49 Discover how to implement it: <a href=\"https://www.linkedin.com/posts/nathalie-fouet_le-dashboard-responsible-ai-de-microsoft-activity-7071763060683628544-TgT6\">LinkedIn Post</a></p>",
+            "image": null,
+            "date_modified": "2023-05-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/data-platform-tracabilite-silos/",
+            "url": "https://nathemis.github.io/data-platform-tracabilite-silos/",
+            "title": "Data Platform: Am\u00e9liorer la Tra\u00e7abilit\u00e9 en Cassant les Silos",
+            "content_html": "<h1>Data Platform: Am\u00e9liorer la Tra\u00e7abilit\u00e9 en Cassant les Silos</h1>\n<p>:factory:</p>\n<p>Silos are where data goes to die. If you want real product traceability, it's time to tear down the walls.</p>\n<p>In this replay, Donatien and I walk through the exact architecture and mindset needed to build a modern Data Platform that actually connects the dots. We're talking end-to-end visibility, no excuses. </p>\n<p>Let's get your data working as a single, unstoppable unit.</p>\n<p>\ud83d\udc49 Watch the replay:https://youtu.be/xqB43AkiGGM\n <a href=\"https://www.linkedin.com/posts/nathalie-fouet_replay-am%C3%A9liorer-la-tra%C3%A7abilit%C3%A9-de-vos-activity-7038502738892083201-hLze\">LinkedIn Post</a></p>",
+            "image": null,
+            "date_modified": "2023-03-02T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/ia-anticiper-evolutions-traites-europeens/",
+            "url": "https://nathemis.github.io/ia-anticiper-evolutions-traites-europeens/",
+            "title": "IA: Anticiper les \u00e9volutions des trait\u00e9s europ\u00e9ens",
+            "content_html": "<h1>IA: Anticiper les \u00e9volutions des trait\u00e9s europ\u00e9ens</h1>\n<p>:gavel:</p>\n<p>AI isn't just a tech issue; it's a geopolitical chessboard.</p>\n<p>I recently shared my thoughts in Les Echos on why we need to stay ahead of European treaty evolutions regarding AI. We're not just waiting for the rules to be written\u2014we're anticipating them and building the infrastructure to match.</p>\n<p>Want to build compliant, future-proof AI strategies without the headache? I've outlined the roadmap. Let's dig in.</p>\n<p>\ud83d\udc49 Read the full opinion: <a href=\"https://www.lesechos.fr/idees-debats/cercle/opinion-ia-anticiper-les-evolutions-des-traites-europeens-1907725\">Les Echos - Opinion IA</a> | <a href=\"https://www.linkedin.com/posts/nathalie-fouet_opinion-ia-anticiper-les-%C3%A9volutions-des-activity-7038507219105009665-8V5j\">LinkedIn Post</a></p>\n<p><img alt=\"alt text\" src=\"image.png\"></p>",
+            "image": null,
+            "date_modified": "2023-03-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/ia-act-arriverait-dans-2-ans/",
+            "url": "https://nathemis.github.io/ia-act-arriverait-dans-2-ans/",
+            "title": "L'IA Act arriverait dans 2 ans!",
+            "content_html": "<h1>L'IA Act arriverait dans 2 ans!</h1>\n<p>:scales:</p>\n<p>The AI Act is coming in two years, and the clock is ticking.</p>\n<p>ChatGPT, DALL-E, and Lensa have forced the regulators' hands, but you don't need to panic\u2014you need to prepare. I've broken down what this means for your AI initiatives and how to stay ahead of the compliance curve without stifling innovation.</p>\n<p>Let's build AI that's not just powerful, but bulletproof.</p>\n<p>\ud83d\udc49 Get ready for what's coming: https://www.linkedin.com/feed/update/urn:li:activity:7027280121958920192/\n <a href=\"https://www.linkedin.com/posts/nathalie-fouet_chatgpt-dalle2-lensaai-activity-7027320992385363969-cueE\">LinkedIn Post</a></p>",
+            "image": null,
+            "date_modified": "2023-02-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/meetup-cellenza-ia-responsable/",
+            "url": "https://nathemis.github.io/meetup-cellenza-ia-responsable/",
+            "title": "Meetup Cellenza: L'IA responsable et de confiance",
+            "content_html": "<h1>Meetup Cellenza: L'IA responsable et de confiance</h1>\n<p>:handshake:</p>\n<p>Trust isn't given; it's engineered.</p>\n<p>At the Cellenza Meetup, I took the stage to tackle the real-world execution of Responsible and Trustworthy AI. We didn't just talk philosophy\u2014we talked frameworks, guardrails, and how to deploy generative AI without losing your shirt (or your reputation).</p>\n<p>Let's build AI systems that people can actually rely on.</p>\n<p>\ud83d\udc49 Check out the discussion:https://www.eventbrite.fr/e/billets-lintelligence-artificielle-responsable-et-de-confiance-511577521137?aff=RS <a href=\"https://www.linkedin.com/posts/nathalie-fouet_event-ia-chatgpt-activity-7019252597207236608-UuQv\">LinkedIn Post</a></p>",
+            "image": null,
+            "date_modified": "2023-01-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/us-eu-data-transfers-saga-continues/",
+            "url": "https://nathemis.github.io/us-eu-data-transfers-saga-continues/",
+            "title": "US-EU Data Transfers: The Saga Continues",
+            "content_html": "<h1>US-EU Data Transfers: The Saga Continues</h1>\n<p>:earth_africa:</p>\n<p>The US-EU data transfer saga is the soap opera that never ends, but your compliance strategy can't run on drama.</p>\n<p>I've broken down the latest twists, what it means for your transatlantic data flows, and how to keep your operations running smoothly while the regulators figure things out. No legal jargon\u2014just clear, actionable intelligence.</p>\n<p>Let's keep your data moving safely.</p>\n<p>\ud83d\udc49 Read my take on the latest update: <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:7009046997714223104\">LinkedIn Post</a></p>\n<p><img alt=\"image-2\" src=\"../images/image-2.png\"></p>",
+            "image": null,
+            "date_modified": "2022-12-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/run-projet-ia-cycle-de-vie-mlops/",
+            "url": "https://nathemis.github.io/run-projet-ia-cycle-de-vie-mlops/",
+            "title": "Run d'un Projet IA: Garder sous contr\u00f4le le cycle de vie d'un mod\u00e8le ML",
+            "content_html": "<h1>Run d'un Projet IA: Garder sous contr\u00f4le le cycle de vie d'un mod\u00e8le ML</h1>\n<p>:gear:</p>\n<p>Building an ML model is the easy part; keeping it alive in production is where champions are made.</p>\n<p>I've shared my battle-tested strategies for mastering the 'Run' phase of an AI project. From drift detection to seamless MLOps life cycles, I'll show you how to keep your models sharp and your operations flawless. </p>\n<p>Let's take control of your ML lifecycle.</p>\n<p>\ud83d\udc49 Dive into the operational roadmap: https://blog.cellenza.com/cloud-2/run/run-dun-projet-ia-garder-sous-controle-le-cycle-de-vie-dun-modele-ml/ <a href=\"https://www.linkedin.com/posts/nathalie-fouet_build-run-ai-activity-6909465708540166144-S6Nb\">LinkedIn Post</a></p>",
+            "image": null,
+            "date_modified": "2022-03-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/droit-humanitaire-nouvelles-technologies/",
+            "url": "https://nathemis.github.io/droit-humanitaire-nouvelles-technologies/",
+            "title": "Le Droit Humanitaire face aux nouvelles technologies",
+            "content_html": "<h1>Le Droit Humanitaire face aux nouvelles technologies</h1>\n<p>:globe_with_meridians:</p>\n<p>When cutting-edge tech collides with International Humanitarian Law, the stakes couldn't be higher.</p>\n<p>I recently explored how cyberattacks and AI are forcing a rewrite of the rules of engagement. It's a complex, high-stakes arena, but I've distilled the critical intersections you need to understand. </p>\n<p>Let's bring some clarity to the chaos of modern digital warfare.</p>\n<p>\ud83d\udc49 Explore the intersection of tech and law: \nhttps://blog.cellenza.com/securite-2/le-droit-international-humanitaire-face-aux-nouvelles-technologies/</p>\n<p><a href=\"https://www.linkedin.com/posts/nathalie-fouet_dih-ia-cyberattack-activity-6900025336893968384-le-T\">LinkedIn Post</a></p>",
+            "image": null,
+            "date_modified": "2022-02-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/clash-microsoft-ia-scratch-vs-etagere/",
+            "url": "https://nathemis.github.io/clash-microsoft-ia-scratch-vs-etagere/",
+            "title": "Le Clash Microsoft - IA: From scratch vs. sur \u00e9tag\u00e8re",
+            "content_html": "<h1>Le Clash Microsoft - IA: From scratch vs. sur \u00e9tag\u00e8re</h1>\n<p>:boxing_glove:</p>\n<p>Build from scratch or buy off-the-shelf? It's the ultimate AI showdown.</p>\n<p>In this 'Clash' episode, we throw down over the pros, cons, and hidden traps of custom AI versus out-of-the-box Microsoft solutions. I don't pull punches\u2014I'll give you the straight talk you need to make the right architectural call for your business.</p>\n<p>Ring the bell, let's go.</p>\n<p>\ud83d\udc49 Watch the clash: <a href=\"https://www.youtube.com/watch?v=tNak1SiVe4c&amp;list=PL5Kprdw8GhxfuvGtkGyhZ-o9AjfPxgoGw&amp;index=6\">YouTube Video</a> | <a href=\"https://www.linkedin.com/posts/nathalie-fouet_leclash-data-bigdata-activity-6856168138753531904-YxLT\">LinkedIn Post</a></p>\n<p><img alt=\"clash-microsoft-ia-scratch-vs-etagere\" src=\"../images/clash-microsoft-ia-scratch-vs-etagere.png\"></p>",
+            "image": null,
+            "date_modified": "2021-10-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/essentiel-propositions-commission-europeenne-ia/",
+            "url": "https://nathemis.github.io/essentiel-propositions-commission-europeenne-ia/",
+            "title": "L'Essentiel des propositions de la commission europ\u00e9enne pour une IA de confiance",
+            "content_html": "<h1>L'Essentiel des propositions de la commission europ\u00e9enne pour une IA de confiance</h1>\n<p>:bulb:</p>\n<p>The European Commission has laid its cards on the table for Trustworthy AI.</p>\n<p>Trying to decipher the proposals on your own? Don't bother. I've done the heavy lifting, stripping away the bureaucratic noise to give you the absolute essentials. We'll look at the risk categories, the obligations, and how to position your projects for success.</p>\n<p>Let's make compliance your superpower.</p>\n<p>\ud83d\udc49 Get the essential breakdown: <a href=\"https://www.linkedin.com/posts/nathalie-fouet_les-propositions-de-la-commission-europ%C3%A9enne-activity-6797930536045215744-v0pL\">LinkedIn Post</a></p>\n<p><img alt=\"Screenshot\" src=\"../images/essentiel-propositions-commission-europeenne-ia_.png\"></p>",
+            "image": null,
+            "date_modified": "2021-05-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/mlflow-explication-pratique/",
+            "url": "https://nathemis.github.io/mlflow-explication-pratique/",
+            "title": "MLFlow, explication pratique",
+            "content_html": "<h1>MLFlow, explication pratique</h1>\n<p>:bar_chart:</p>\n<p>If your data science team is drowning in unversioned notebooks and untracked experiments, it's time for an intervention. Enter MLFlow.</p>\n<p>In this practical breakdown, I cut through the theory and show you exactly how to wield MLFlow to orchestrate your machine learning pipeline like a pro. Say goodbye to chaos and hello to reproducibility. </p>\n<p>Let's get to work.</p>\n<p>\ud83d\udc49 Check out the practical guide: https://blog.cellenza.com/data/mlflow-application-pratique/ \n<a href=\"https://www.linkedin.com/posts/nathalie-fouet_mlflow-data-mlops-activity-6721722449966235648-stf8\">LinkedIn Post</a></p>",
+            "image": null,
+            "date_modified": "2020-10-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://nathemis.github.io/livre-blanc-deep-metric-learning-visages/",
+            "url": "https://nathemis.github.io/livre-blanc-deep-metric-learning-visages/",
+            "title": "Livre Blanc: D\u00e9tectez des visages dans une vid\u00e9o gr\u00e2ce au Deep Metric Learning",
+            "content_html": "<h1>Livre Blanc: D\u00e9tectez des visages dans une vid\u00e9o gr\u00e2ce au Deep Metric Learning</h1>\n<p>:tv:</p>\n<p>Facial detection in video isn't just about throwing data at a neural network\u2014it's an art.</p>\n<p>In this whitepaper, I tear down the mechanics of using Deep Metric Learning to achieve pinpoint accuracy. Whether you're building security systems or advanced analytics, I'll walk you through the architecture that gets results.</p>\n<p>Time to sharpen your computer vision skills. Let's dive in.</p>",
+            "image": null,
+            "date_modified": "2020-02-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nathalie"
+                }
+            ],
+            "tags": null
+        }
+    ]
+}
