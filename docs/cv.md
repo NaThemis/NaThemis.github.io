@@ -1,3 +1,7 @@
+---
+date: 2022-01-15
+---
+
 # Curriculum Vitae
 
 **Data, AI & InfoSec Professional (Legal Background)**

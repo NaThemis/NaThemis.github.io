@@ -1,3 +1,7 @@
+---
+date: 2022-01-15
+---
+
 # About Me
 
 With a background in law ⚖️, I transitioned into computer science 💻 and specialized in Artificial Intelligence 🤖. Over the past 5+ years, I've worked with CAC40 companies and organizations at an IT Consulting Firm, focusing on cloud governance ☁️, data engineering 📊, and AI solutions.
