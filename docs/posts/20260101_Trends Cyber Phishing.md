@@ -26,7 +26,7 @@ I've just put together a deep dive into the cybersecurity trends defining 2025-2
 
 We’re talking actionable intel: real stats, a France-specific breakdown straight from ANSSI’s latest data, and a no-BS look at why AI-turbocharged phishing and deepfakes are still the sharpest weapons pointed at your organization.
 
-Here's the deal: I don't just point out the problems; I build the defenses. In this breakdown, I'll walk you through exactly what you need to do to lock things down—starting tomorrow. 
+Here's the deal: In this breakdown, I'll walk you through concrete, actionable steps to strengthen your defenses — starting tomorrow. 
 
 Whether you’re a tech pro building secure infrastructure or just taking your own digital hygiene seriously, I've got you covered.
 
